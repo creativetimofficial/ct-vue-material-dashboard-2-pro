@@ -1,5 +1,10 @@
 # Change Log
 
+## [3.1.0] 2024-02-22
+
+- Update dependencies & devDependencies
+- Add support for two-way data binding to `MaterialInput`
+
 ## [3.0.0] 2022-06-14
 
 - Update core components name from Vmd to Material.
