@@ -1,6 +1,6 @@
 # [Vue Material Dashboard 2 PRO](http://demos.creative-tim.com/vue-material-dashboard-2-pro/#/?ref=readme-vmd2p) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-dashboard-2-pro&text=Check%20Vue%20Material%20Dashboard%202%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-dashboard-pro)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-dashboard-2-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-dashboard-2-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-dashboard-2-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-dashboard-2-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-material-dashboard-2-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-dashboard-2-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-material-dashboard-2-pro.svg)](https://github.com/creativetimofficial/ct-vue-material-dashboard-2-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/595/original/vue-material-dashboard-pro.jpg)
 
@@ -197,7 +197,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-vmd2p)
+- Copyright 2024 [Creative Tim](https://www.creative-tim.com?ref=readme-vmd2p)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=readme-vmd2p)
 
 ## Useful Links
